@@ -1,2 +1,2 @@
 User-agent: *
-Allow: /private/secret.html
+Allow:secret.html
